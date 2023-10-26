@@ -1,3 +1,4 @@
+![logo](https://github.com/anirban-96/anirban-96/blob/main/1598083112684.jpg)
 <h1 align="center">Hi 👋, I'm Anirban Datta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
