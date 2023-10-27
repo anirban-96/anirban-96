@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **SQL, Python for Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anirban-96?tab=repositories](https://github.com/anirban-96?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio Projects](https://github.com/anirban-96?tab=repositories)
 
 - 💬 Ask me about **SQL, Python, Power BI**
 
 - 📫 How to reach me **anirban.datta1996@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vW4LySB1gCKx6xGNhlVR448FEkLQB6ZB/view?usp=drive_link](https://drive.google.com/file/d/1vW4LySB1gCKx6xGNhlVR448FEkLQB6ZB/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1vW4LySB1gCKx6xGNhlVR448FEkLQB6ZB/view?usp=sharing)
 
 - ⚡ Fun fact **Sometimes I become too serious**
 
