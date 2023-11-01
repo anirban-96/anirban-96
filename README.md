@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **anirban.datta1996@outlook.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1vW4LySB1gCKx6xGNhlVR448FEkLQB6ZB/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1dSnavGAgVDAbp0tqUBXuRDRjdAq2D4iA/view?usp=sharing)
 
-- ⚡ Fun fact **Sometimes I become too serious**
+- ⚡ Fun fact **Sometimes I am eagar to finish what I have started**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
