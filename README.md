@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **SAP Analytics Consultant**
 
-- 🌱 I’m currently learning **SQL, Python for Data Analyst**
+- 🌱 I’m currently learning **Data Science and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Projects](https://github.com/anirban-96?tab=repositories)
 
@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **anirban.datta1996@outlook.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/181MB3fIMdu_Tq9l2SM87k5fv1lFRNxQc/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IkE2_zubHFWNO_FJXhkrRNTIL2AHMxhJ/view?usp=sharing)
 
-- ⚡ Fun fact **Sometimes I am eagar to finish what I have started**
+- ⚡ Fun fact **Inclined to gather knowledge from the base**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
