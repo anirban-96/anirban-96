@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1IkE2_zubHFWNO_FJXhkrRNTIL2AHMxhJ/view?usp=sharing)
 
-- ⚡ Fun fact **Inclined to gather knowledge from the base**
+- ⚡ Fun fact **Inclination towards exploring any skill from its root**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
