@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anirban.datta1996@outlook.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qpIUzZZd4aJ3ZvCMo3Gm5mls8VXFHaDS/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/11J6M6PdIFYkBMOrrblH3SflqTrSeiItg/view?usp=sharing)
 
 - ⚡ Fun fact **Inclination towards exploring any skill from its root**
 
