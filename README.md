@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **SAP Analytics Consultant**
 
-- 🌱 I’m currently learning **Data Science and Data Analytics**
+- 🌱 I’m currently learning **Data Science & Data Analytics**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Projects](https://github.com/anirban-96?tab=repositories)
 
